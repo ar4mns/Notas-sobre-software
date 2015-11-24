@@ -1,6 +1,6 @@
 #Review "The Cathedral and the Bazaar"
 
- ## La catedral y el bazar
+ ##La catedral y el bazar
 
 - *El estilo catedral vs el estilo bazar*: El estilo de desarrollo centralizado de personas con gran capacidad que cuidan todos los detalles vs un estilo descentralizado donde cualquier persona puede aportar su grano de arena al desarrollo. Algunas ídeas que chocaban contra el modelo
 
