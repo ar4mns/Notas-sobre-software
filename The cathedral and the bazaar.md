@@ -41,10 +41,53 @@ problema personal del que los programa**: la necesidad es la madre de todos los 
 
 ## Cuantos ojos controlan la complejidad
 
-- El problema fundamental de desarollo de software tradicional alcanza la Ley de Brooks: *añadir más programadores a un proyecto en desarrollo lo retrasa". De manera genera, lo que predica la ley de Brooks es que la complejidad y los costes de comunicación se elevan al cuadrado con el número de desarolladores, mientras que el trabajo hecho tiene una evolución lineal. Ésta ley de Brook se apoya en la suposición de que la estructura de comunicación de un proyecto debe ser necesaria mente un grafo completo (KK).
+- El problema fundamental de desarollo de software tradicional alcanza la Ley de Brooks: *"añadir más programadores a un proyecto en desarrollo lo retrasa"*. De manera genera, lo que predica la ley de Brooks es que la complejidad y los costes de comunicación se elevan al cuadrado con el número de desarolladores, mientras que el trabajo hecho tiene una evolución lineal. Ésta ley de Brook se apoya en la suposición de que la estructura de comunicación de un proyecto debe ser necesaria mente un grafo completo (KK).
 
 ## ¿Cúando una rosa no es una rosa?
 
+1. **Las estructuras de datos inteligentes y el código burdo funcionan mucho mejor que en el caso inverso**: de una forma u otra se puede extrapolar a un modelado de datos adecuado frente a una lógica de negocio floja.
 
+1. **Si usted trata a sus analistas (beta-testers) como si fueran su recurso más valioso, ellos le responderán convirtiéndose en su recurso más valioso**.
 
+## Popclient se convierte en FetchMail
+
+1. **Lo más grande, después de tener buenas ideas, es reconocer las buenas ideas de sus usuarios. Esto último es a veces lo mejor**
+
+1. **Frecuentemente, las soluciones más innovadoras y espectaculares provienen de comprender que la concepción del problema era errónea**
+
+1. **"La perfección (en diseño) se alcanza no cuando ya no hay nada que agregar, sino cuando ya no hay algo que quitar."**
+
+## El crecimiento de Fetchmail
+
+1. **Toda herramienta es útil empleándose de la forma prevista, pero una *gran* herramienta es la que se presta a ser utilizada de la manera menos esperada**
+
+1. **Cuándo se escribe software para una puerta de enlace de cualquier tipo, hay que tomar la precaución de alterar el flujo de datos lo menos posible, y ¡*nunca* eliminar información a menos que los receptores obliguen a hacerlo!**
+
+## Algunas lecciones extraídas de Fetchmail
+
+1. **Cuando su lenguaje está lejos de un Turing completo, entonces el azúcar sintáctico puede ser su amigo**
+
+- *escuela de diseño "hágalo un lenguaje"*: introducir una sintáxis que permita la legibilidad del diseño de software. La utilización de lenguajes de control que permitían economizar recursos de cómputo vs un lenguaje legible como el inglés con una redundancia de 50%. Ahora es más importante para un lenguaje el ser conveniente para los humanos que ser económico en términos de recursos computacionales.
+
+1. **Un sistema de seguridad es tan seguro como secreto. Cuídese de los secretos a medias**
+
+## Condiciones necesarias para el Estilo del Bazar
+
+- *No se puede partir de 0 para construir software siguiendo el modelo Bazaar*
+
+- *originalidad --> elegancia y complejidad, inteligencia --> simpleza y robustez*: es necesario la suma adecuada de todos para que en el diseño de software se obtenga un programa estable y reconocido
+
+- *un coordinador o lider de proyecto debe tener don de gentes y buena capacidad de comunicación*
+
+- *Formación de una comunidad*: se necesita atraer gente, interesada en lo que se está haciendo y mantenerla a gusto. El entusiasmo técnico es importante, pero más lo es la personalidad que se proyecta en la misma.
+
+- *Es necesaria un poco de capacidad para las relaciones sociales*
+
+## El contexto social del software libre
+
+1. **Para resolver un problema interesante, comience por encontrar un problema que le resulte interesante**
+
+- *La "función utilidad" que los hackers de Linux están explotando no es económica en el sentido clásico, sino algo intangible como la satisfacción de su ego y su reputación entre otros hackers.*
+
+1. **Si el coordinador de desarrollo tiene un medio al menos tan bueno como lo es Internet, y sabe dirigir sin coerción, muchas cabezas serán, inevitablemente, mejor que una**: una reformulación de la Ley de Brooks asociada al modelo Bazaar. En contraposición directa con lo de que el número de personas retrasa el proyecto.
 
