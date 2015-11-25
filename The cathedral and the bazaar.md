@@ -13,19 +13,19 @@ problema personal del que los programa**: la necesidad es la madre de todos los 
 
 1. **Los buenos programadores saben qué escribir. Los mejores, que reescribir (y reutilizar)**: el hecho de que haya tanta gente compartiendo en las comunidades de Linux y haciendo lo que le gusta, hace que haya más diversidad y una vasta batería de ejemplos desde los que comenzar a *reutilizar*
 
-1. **Planea desechar alguna de las bases, de todas formas tendrás que hacerlo**: dicho de otra forma si tienes un problema que solucionar, plantéate resolverlo al menos una vez.
+2. **Planea desechar alguna de las bases, de todas formas tendrás que hacerlo**: dicho de otra forma si tienes un problema que solucionar, plantéate resolverlo al menos una vez.
 
-1. **Si tienes la actitud adecuada, encontrarás problemas interesantes**
+3. **Si tienes la actitud adecuada, encontrarás problemas interesantes**
 
-1. **Cuando se pierde el interés en un programa, el último deber es delegarlo a un sucesor compentente**
+4. **Cuando se pierde el interés en un programa, el último deber es delegarlo a un sucesor compentente**
 
 ## La importancia de contar con usuarios
 
 - *Tener usuarios es maravilloso*: no solo porque prueban que están satisfacciendo una necesidad sino porque pueden convertirse en magníficos asistentes.
 
-1. **Tratar a los usuarios como "co-desarrolladores" es la ruta más apropiada para mejorar el código, y la más efectiva de depurarlo**
+5. **Tratar a los usuarios como "co-desarrolladores" es la ruta más apropiada para mejorar el código, y la más efectiva de depurarlo**
 
-1. *La genialidad de Linus no fué la de la invención del kernel, sino la de la invención del modelo de desarrollo de Linux*: too lazy to fail.
+6. *La genialidad de Linus no fué la de la invención del kernel, sino la de la invención del modelo de desarrollo de Linux*: too lazy to fail.
 
 ## Libere temprano y a menudo
 
